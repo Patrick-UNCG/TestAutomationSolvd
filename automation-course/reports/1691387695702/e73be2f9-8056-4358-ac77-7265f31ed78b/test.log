@@ -1,0 +1,11 @@
+[2023-08-07 05:54:59] [1] [WARN] Reporting disabled: using no op test run registrar
+[2023-08-07 05:54:59] [1] [INFO] TEST [automation-course - login] STARTED at [01:54:59 2023-08-07]
+[2023-08-07 05:54:59] [1] [INFO] Starting driver session...
+[2023-08-07 05:55:00] [1] [ERROR] Failed to attach artifact reference 'app' to test run because it has not been started yet.
+[2023-08-07 05:55:09] [1] [INFO] Driver session started.
+[2023-08-07 05:55:12] [1] [INFO] PASS: keys 'standard_user' are sent to element 'userNameField'.
+[2023-08-07 05:55:15] [1] [INFO] PASS: keys 'secret_sauce' are sent to element 'passwordField'.
+[2023-08-07 05:55:16] [1] [INFO] PASS: element 'loginBtn' is clicked.
+[2023-08-07 05:55:18] [1] [INFO] PASS: element 'item1' is clicked.
+[2023-08-07 05:55:20] [1] [INFO] PASS: element 'viewCartBtn' is clicked.
+[2023-08-07 05:55:22] [1] [INFO] TEST [automation-course - login] PASSED at [01:55:22 2023-08-07]

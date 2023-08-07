@@ -1,0 +1,10 @@
+{
+  "title": "Motorola 5",
+  "description": "A old android device",
+  "price": 149,
+  "discountPercentage": 32.96,
+  "rating": 1.69,
+  "stock": 5,
+  "brand": "Motorola",
+  "category": "smartphones"
+}
